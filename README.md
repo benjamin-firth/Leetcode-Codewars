@@ -10,6 +10,8 @@ A repository of all my Leetcode solutions.  If you have additions or alternative
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./javascript-solutions/longest-substring-without-repeat.js) |I pass on a Repl, but it's still too slow to pass on Leetcode. Work in progress...|Medium||
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](./javascript-solutions/reverse-integer.js) | |Easy|Math|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](./javascript-solutions/roman-to-integer.js) | |Easy||
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](./javascript-solutions/remove-element.js) |This one was interesting, as usually I would make a copy of it.  Also, when you splice in a forEach or for loop, it skips the next element, so I had to decrement back to stay in the correct order. |Easy||
+
 
 
 
