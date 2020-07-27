@@ -11,6 +11,8 @@ A repository of all my Leetcode solutions.  If you have additions or alternative
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](./javascript-solutions/reverse-integer.js) | |Easy|Math|07/23/2020|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](./javascript-solutions/roman-to-integer.js) | |Easy||07/23/2020|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](./javascript-solutions/remove-element.js) |This one was interesting, as usually I would make a copy of it.  Also, when you splice in a forEach or for loop, it skips the next element, so I had to decrement back to stay in the correct order. |Easy||07/24/2020|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution](./javascript-solutions/valid-parentheses.js) |SO many edge cases on this one...|Easy||07/27/2020|
+
 
 
 
