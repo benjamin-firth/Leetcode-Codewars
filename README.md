@@ -4,6 +4,7 @@ A repository of all my Leetcode solutions.  If you have additions or alternative
 
 |  #  |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |-----|----------------|---------------|--------|-------------|-------------|---------
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Solution](./javascript-solutions/length-of-last-word.js) |Just learned about this Boolean wrapper object that you can use to filter out all falsey values! Very cool. |Easy||07/28/2020|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./javascript-solutions/search-insert-position.js) ||Easy||07/28/2020|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](./javascript-solutions/implement-strstr.js) ||Easy||07/27/2020|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution](./javascript-solutions/valid-parentheses.js) |SO many edge cases on this one...|Easy||07/27/2020|
