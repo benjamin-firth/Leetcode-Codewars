@@ -13,6 +13,8 @@ A repository of all my Leetcode solutions.  If you have additions or alternative
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](./javascript-solutions/remove-element.js) |This one was interesting, as usually I would make a copy of it.  Also, when you splice in a forEach or for loop, it skips the next element, so I had to decrement back to stay in the correct order. |Easy||07/24/2020|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution](./javascript-solutions/valid-parentheses.js) |SO many edge cases on this one...|Easy||07/27/2020|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](./javascript-solutions/implement-strstr.js) ||Easy||07/27/2020|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./javascript-solutions/search-insert-position.js) ||Easy||07/28/2020|
+
 
 
 
