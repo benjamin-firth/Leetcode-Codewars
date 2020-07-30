@@ -4,6 +4,7 @@ A repository of all my Leetcode solutions.  If you have additions or alternative
 
 |  #  |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |-----|----------------|---------------|--------|-------------|-------------|---------
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[Solution](./javascript-solutions/plus-one.js) |Nothing is ever quite as easy as you think! I had to figure out a way to get around Javascript's limit on numbers larger than (2^53) - 1. I ended up finding the BigInt object!|Easy||07/29/2020|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Solution](./javascript-solutions/length-of-last-word.js) |Just learned about this Boolean wrapper object that you can use to filter out all falsey values! Very cool. |Easy||07/28/2020|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./javascript-solutions/search-insert-position.js) ||Easy||07/28/2020|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](./javascript-solutions/implement-strstr.js) ||Easy||07/27/2020|
