@@ -4,6 +4,7 @@ A repository of all my Codewars solutions.  If you have additions or alternative
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Basics 06: Reversing and Combining Text](https://www.codewars.com/kata/56b861671d36bb0aa8000819/solutions/javascript/)|[Solution](./javascript-solutions/codewars/reversing-and-combining-text.js) ||6 kyu||08/06/2020|
 |[Fix String Case](https://www.codewars.com/kata/5b180e9fedaa564a7000009a/train/javascript)|[Solution](./javascript-solutions/codewars/fix-string-case.js) ||7 kyu||08/06/2020|
 |[Simple String Reversal](https://www.codewars.com/kata/5a71939d373c2e634200008e/train/javascript)|[Solution](./javascript-solutions/codewars/simple-string-reversal.js) ||7 kyu||08/06/2020|
 
