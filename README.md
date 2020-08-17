@@ -4,6 +4,7 @@ A repository of all my Codewars solutions.  If you have additions or alternative
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Alternate case](https://www.codewars.com/kata/57a62154cf1fa5b25200031e/train/javascript)|[Solution](./javascript-solutions/codewars/alternate-case.js) ||7 kyu||08/17/2020|
 |[Character with longest consecutive repetition](https://www.codewars.com/kata/586d6cefbcc21eed7a001155/train/javascript)|[Solution](./javascript-solutions/codewars/char-with-longest-con-rep.js) |This solution could use some work. I think there is a simpler way to solve this problem, so it's a bit of a work in progress at the moment.|6 kyu||08/13/2020|
 |[Over the Road](https://www.codewars.com/kata/5f0ed36164f2bc00283aed07/train/javascript)|[Solution](./javascript-solutions/codewars/over-the-road.js) ||7 kyu||08/12/2020|
 |[Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/javascript)|[Solution](./javascript-solutions/codewars/mumbling.js) ||7 kyu||08/07/2020|
