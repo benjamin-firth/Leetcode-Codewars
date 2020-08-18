@@ -4,6 +4,7 @@ A repository of all my Codewars solutions.  If you have additions or alternative
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Simple frequency sort](https://www.codewars.com/kata/5a8d2bf60025e9163c0000bc/train/javascript)|[Solution](./javascript-solutions/codewars/simple-frequency-sort.js) ||6 kyu||08/18/2020|
 |[Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014/train/javascript)|[Solution](./javascript-solutions/codewars/sum-two-lowest-positive.js) ||7 kyu||08/18/2020|
 |[Alternate case](https://www.codewars.com/kata/57a62154cf1fa5b25200031e/train/javascript)|[Solution](./javascript-solutions/codewars/alternate-case.js) ||7 kyu||08/17/2020|
 |[Character with longest consecutive repetition](https://www.codewars.com/kata/586d6cefbcc21eed7a001155/train/javascript)|[Solution](./javascript-solutions/codewars/char-with-longest-con-rep.js) |This solution could use some work. I think there is a simpler way to solve this problem, so it's a bit of a work in progress at the moment.|6 kyu||08/13/2020|
