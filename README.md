@@ -4,7 +4,7 @@ A repository of all my Codewars solutions.  If you have additions or alternative
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
-|[Jewel Thief](https://www.codewars.com/kata/5b40a38f6be5d82775000003/train/javascript)|[Solution](./javascript-solutions/codewars/jewel-thief.js) ||6 kyu|Recursion for the win!|08/19/2020|
+|[Jewel Thief](https://www.codewars.com/kata/5b40a38f6be5d82775000003/train/javascript)|[Solution](./javascript-solutions/codewars/jewel-thief.js) |Recursion for the win!|6 kyu||08/19/2020|
 |[Simple frequency sort](https://www.codewars.com/kata/5a8d2bf60025e9163c0000bc/train/javascript)|[Solution](./javascript-solutions/codewars/simple-frequency-sort.js) ||6 kyu||08/18/2020|
 |[Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014/train/javascript)|[Solution](./javascript-solutions/codewars/sum-two-lowest-positive.js) ||7 kyu||08/18/2020|
 |[Alternate case](https://www.codewars.com/kata/57a62154cf1fa5b25200031e/train/javascript)|[Solution](./javascript-solutions/codewars/alternate-case.js) ||7 kyu||08/17/2020|
