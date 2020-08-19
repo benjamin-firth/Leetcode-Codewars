@@ -16,7 +16,7 @@ const crack = safe => {
         }
       } else {
         return lastNum(newNum, direction, firstTwoCombo)
-      }
+      };
     };
   };
   
@@ -36,7 +36,7 @@ const crack = safe => {
         }
       } else {
         return secondNum(newNum, direction, firstCombo)
-      }
+      };
     };
   };
   
@@ -56,7 +56,7 @@ const crack = safe => {
         }
       } else {
         return firstNum(newNum, direction)
-      }
+      };
     };
   };
   
