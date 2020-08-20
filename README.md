@@ -2,6 +2,9 @@
 
 A repository of all my Codewars solutions.  If you have additions or alternative solutions I'd love to hear from you, especially if it has a performance benefit!
 
+Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
+
+
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
 |[Jewel Thief](https://www.codewars.com/kata/5b40a38f6be5d82775000003/train/javascript)|[Solution](./javascript-solutions/codewars/jewel-thief.js) |Recursion for the win!|6 kyu||08/19/2020|
