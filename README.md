@@ -2,8 +2,12 @@
 
 A repository of all my Codewars solutions.  If you have additions or alternative solutions I'd love to hear from you, especially if it has a performance benefit!
 
+Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
+
+
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Cryptanalysis Word Patterns](https://www.codewars.com/kata/5f3142b3a28d9b002ef58f5e/train/javascript)|[Solution](./javascript-solutions/codewars/cryptanalysis-words.js) ||7 kyu||08/21/2020|
 |[Jewel Thief](https://www.codewars.com/kata/5b40a38f6be5d82775000003/train/javascript)|[Solution](./javascript-solutions/codewars/jewel-thief.js) |Recursion for the win!|6 kyu||08/19/2020|
 |[Simple frequency sort](https://www.codewars.com/kata/5a8d2bf60025e9163c0000bc/train/javascript)|[Solution](./javascript-solutions/codewars/simple-frequency-sort.js) ||6 kyu||08/18/2020|
 |[Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014/train/javascript)|[Solution](./javascript-solutions/codewars/sum-two-lowest-positive.js) ||7 kyu||08/18/2020|
