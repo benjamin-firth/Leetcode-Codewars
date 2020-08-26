@@ -7,6 +7,8 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Multiplication table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/train/javascript)|[Solution](./javascript-solutions/codewars/multiplication-table.js) ||6 kyu||08/26/2020|
+|[Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/javascript)|[Solution](./javascript-solutions/codewars/backspaces-in-string.js) ||6 kyu||08/25/2020|
 |[Cryptanalysis Word Patterns](https://www.codewars.com/kata/5f3142b3a28d9b002ef58f5e/train/javascript)|[Solution](./javascript-solutions/codewars/cryptanalysis-words.js) ||7 kyu||08/21/2020|
 |[Jewel Thief](https://www.codewars.com/kata/5b40a38f6be5d82775000003/train/javascript)|[Solution](./javascript-solutions/codewars/jewel-thief.js) |Recursion for the win!|6 kyu||08/19/2020|
 |[Simple frequency sort](https://www.codewars.com/kata/5a8d2bf60025e9163c0000bc/train/javascript)|[Solution](./javascript-solutions/codewars/simple-frequency-sort.js) ||6 kyu||08/18/2020|
