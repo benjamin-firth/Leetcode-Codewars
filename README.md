@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Mr Martingale](https://www.codewars.com/kata/5eb34624fec7d10016de426e/train/javascript)|[Solution](./javascript-solutions/codewars/mr-martingale.js) ||7 kyu||09/02/2020|
 |[Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/train/javascript)|[Solution](./javascript-solutions/codewars/mexican-wave.js) ||6 kyu||08/31/2020|
 |[Multiplication table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/train/javascript)|[Solution](./javascript-solutions/codewars/multiplication-table.js) ||6 kyu||08/26/2020|
 |[Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/javascript)|[Solution](./javascript-solutions/codewars/backspaces-in-string.js) ||6 kyu||08/25/2020|
