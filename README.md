@@ -7,7 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
-|[Manhattan Distance](https://www.codewars.com/kata/530e15517bc88ac656000716/train/javascript)|[Solution](./javascript-solutions/codewars/rot13.js) ||5 kyu||09/09/2020|
+|[Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716/train/javascript)|[Solution](./javascript-solutions/codewars/rot13.js) ||5 kyu||09/09/2020|
 |[Manhattan Distance](https://www.codewars.com/kata/52998bf8caa22d98b800003a/train/javascript)|[Solution](./javascript-solutions/codewars/manhattan-distance.js) ||6 kyu||09/08/2020|
 |[Mr Martingale](https://www.codewars.com/kata/5eb34624fec7d10016de426e/train/javascript)|[Solution](./javascript-solutions/codewars/mr-martingale.js) ||7 kyu||09/02/2020|
 |[Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/train/javascript)|[Solution](./javascript-solutions/codewars/mexican-wave.js) ||6 kyu||08/31/2020|
