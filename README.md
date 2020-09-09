@@ -33,6 +33,7 @@ A repository of all my Leetcode solutions.  If you have additions or alternative
 
 |  #  |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |-----|----------------|---------------|--------|-------------|-------------|---------
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Solution](./javascript-solutions/leetcode/add-digits.js) |Getting back into Leetcode after spending time doing Codewars|Easy||09/09/2020|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](./javascript-solutions/leetcode/single-number.js) ||Easy||08/05/2020|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](./javascript-solutions/leetcode/sqrtx.js) |Going to have to try doing this one without the Math object...|Easy||07/30/2020|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Solution](./javascript-solutions/leetcode/plus-one.js) |Nothing is ever quite as easy as you think! I had to figure out a way to get around Javascript's limit on numbers larger than (2^53) - 1. I ended up finding the BigInt object!|Easy||07/29/2020|
