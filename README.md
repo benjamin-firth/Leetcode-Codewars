@@ -33,6 +33,7 @@ A repository of all my Leetcode solutions.  If you have additions or alternative
 
 |  #  |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |-----|----------------|---------------|--------|-------------|-------------|---------
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Solution](./javascript-solutions/leetcode/bulls-and-cows.js) |Definitely could use a refactor. I had some weird edge cases on this one...|Easy||09/10/2020|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Solution](./javascript-solutions/leetcode/add-digits.js) |Getting back into Leetcode after spending time doing Codewars|Easy||09/09/2020|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](./javascript-solutions/leetcode/single-number.js) ||Easy||08/05/2020|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](./javascript-solutions/leetcode/sqrtx.js) |Going to have to try doing this one without the Math object...|Easy||07/30/2020|
