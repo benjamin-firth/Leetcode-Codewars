@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001/train/javascript)|[Solution](./javascript-solutions/codewars/isbn-ten-validation.js) ||5 kyu||09/14/2020|
 |[String array duplicates](https://www.codewars.com/kata/59f08f89a5e129c543000069/train/javascript)|[Solution](./javascript-solutions/codewars/string-array-duplicates.js) ||6 kyu||09/14/2020|
 |[Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716/train/javascript)|[Solution](./javascript-solutions/codewars/rot13.js) ||5 kyu||09/09/2020|
 |[Manhattan Distance](https://www.codewars.com/kata/52998bf8caa22d98b800003a/train/javascript)|[Solution](./javascript-solutions/codewars/manhattan-distance.js) ||6 kyu||09/08/2020|
