@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[English beggars](https://www.codewars.com/kata/59590976838112bfea0000fa/train/javascript)|[Solution](./javascript-solutions/codewars/english-beggars.js) ||6 kyu||09/16/2020|
 |[ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001/train/javascript)|[Solution](./javascript-solutions/codewars/isbn-ten-validation.js) ||5 kyu||09/14/2020|
 |[String array duplicates](https://www.codewars.com/kata/59f08f89a5e129c543000069/train/javascript)|[Solution](./javascript-solutions/codewars/string-array-duplicates.js) ||6 kyu||09/14/2020|
 |[Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716/train/javascript)|[Solution](./javascript-solutions/codewars/rot13.js) ||5 kyu||09/09/2020|
