@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/javascript)|[Solution](./javascript-solutions/codewars/complementary-dna.js) ||7 kyu||09/29/2020|
 |[Is a number prime](https://www.codewars.com/kata/5262119038c0985a5b00029f/train/javascript)|[Solution](./javascript-solutions/codewars/is-prime.js) ||6 kyu||09/21/2020|
 |[Hello, Name or World!](https://www.codewars.com/kata/57e3f79c9cb119374600046b/train/javascript)|[Solution](./javascript-solutions/codewars/hello-name-world.js) |Gotta keep up the code, even if I'm not feeling it today...|8 kyu||09/18/2020|
 |[English beggars](https://www.codewars.com/kata/59590976838112bfea0000fa/train/javascript)|[Solution](./javascript-solutions/codewars/english-beggars.js) ||6 kyu||09/16/2020|
