@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Two Oldest Ages](https://www.codewars.com/kata/511f11d355fe575d2c000001/train/javascript)|[Solution](./javascript-solutions/codewars/two-oldest-ages.js) ||7 kyu||10/01/2020|
 |[Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b/train/javascript)|[Solution](./javascript-solutions/codewars/reverse-letter.js) ||7 kyu||09/30/2020|
 |[Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/javascript)|[Solution](./javascript-solutions/codewars/complementary-dna.js) ||7 kyu||09/29/2020|
 |[Is a number prime](https://www.codewars.com/kata/5262119038c0985a5b00029f/train/javascript)|[Solution](./javascript-solutions/codewars/is-prime.js) ||6 kyu||09/21/2020|
