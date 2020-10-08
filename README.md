@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5/train/javascript)|[Solution](./javascript-solutions/codewars/parse-int-reloaded.js) |Hardest one to date! A lot of code, but I'm making progress!|4 kyu||10/07/2020|
 |[What century is it?](https://www.codewars.com/kata/52fb87703c1351ebd200081f/train/javascript)|[Solution](./javascript-solutions/codewars/what-century.js) |This one is a little sloppy. Needs a refactor.|6 kyu||10/06/2020|
 |[Two Oldest Ages](https://www.codewars.com/kata/511f11d355fe575d2c000001/train/javascript)|[Solution](./javascript-solutions/codewars/two-oldest-ages.js) ||7 kyu||10/01/2020|
 |[Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b/train/javascript)|[Solution](./javascript-solutions/codewars/reverse-letter.js) ||7 kyu||09/30/2020|
