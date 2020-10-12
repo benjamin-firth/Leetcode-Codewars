@@ -7,7 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
-|[Range Extraction](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/javascript)|[Solution](./javascript-solutions/codewars/sort-the-odd.js) ||6 kyu||10/12/2020|
+|[Sort the Odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/javascript)|[Solution](./javascript-solutions/codewars/sort-the-odd.js) ||6 kyu||10/12/2020|
 |[Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/train/javascript)|[Solution](./javascript-solutions/codewars/range-extraction.js) ||4 kyu||10/09/2020|
 |[parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5/train/javascript)|[Solution](./javascript-solutions/codewars/parse-int-reloaded.js) |Hardest one to date! A lot of code, but I'm making progress!|4 kyu||10/08/2020|
 |[What century is it?](https://www.codewars.com/kata/52fb87703c1351ebd200081f/train/javascript)|[Solution](./javascript-solutions/codewars/what-century.js) |This one is a little sloppy. Needs a refactor.|6 kyu||10/06/2020|
