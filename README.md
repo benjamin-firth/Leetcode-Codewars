@@ -45,6 +45,7 @@ A repository of all my Leetcode solutions.  If you have additions or alternative
 
 |  #  |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |-----|----------------|---------------|--------|-------------|-------------|---------
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Solution](./javascript-solutions/leetcode/missing-number.js) ||Easy||10/14/2020|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Solution](./javascript-solutions/leetcode/bulls-and-cows.js) |Definitely could use a refactor. I had some weird edge cases on this one...|Easy||09/10/2020|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Solution](./javascript-solutions/leetcode/add-digits.js) |Getting back into Leetcode after spending time doing Codewars|Easy||09/09/2020|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](./javascript-solutions/leetcode/single-number.js) ||Easy||08/05/2020|
