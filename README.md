@@ -7,7 +7,8 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
-|[Remove the parentheses](https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8/train/javascript)|[Solution](./javascript-solutions/codewars/remove-the-parentheses.js) ||6 kyu||10/15/2020|
+|[getNames()](https://www.codewars.com/kata/514a677421607afc99000002/train/javascript)|[Solution](./javascript-solutions/codewars/get-names.js) ||7 kyu||10/20/2020|
+|[Remove the parentheses](https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8/train/javascript)|[Solution](./javascript-solutions/codewars/remove-the-parentheses.js) |This one was a bit of a gimme, but consistency is key!|7 kyu||10/15/2020|
 |[Sort the Odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/javascript)|[Solution](./javascript-solutions/codewars/sort-the-odd.js) ||6 kyu||10/12/2020|
 |[Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/train/javascript)|[Solution](./javascript-solutions/codewars/range-extraction.js) ||4 kyu||10/09/2020|
 |[parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5/train/javascript)|[Solution](./javascript-solutions/codewars/parse-int-reloaded.js) |Hardest one to date! A lot of code, but I'm making progress!|4 kyu||10/08/2020|
