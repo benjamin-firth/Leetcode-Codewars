@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Sums of Parts](https://www.codewars.com/kata/56eb16655250549e4b0013f4/solutions/javascript)|[Solution](./javascript-solutions/codewars/most-frequent-weekdays.js) ||6 kyu||10/26/2020|
 |[Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/javascript)|[Solution](./javascript-solutions/codewars/sums-of-parts.js) |Very frustrated. This passes a repl, but isn't fast enough for Codewars. Any ideas?|6 kyu||10/21/2020|
 |[getNames()](https://www.codewars.com/kata/514a677421607afc99000002/train/javascript)|[Solution](./javascript-solutions/codewars/get-names.js) |This one was a bit of a gimme, but consistency is key!|7 kyu||10/20/2020|
 |[Remove the parentheses](https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8/train/javascript)|[Solution](./javascript-solutions/codewars/remove-the-parentheses.js) ||6 kyu||10/15/2020|
