@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Even or Odd - Which is Greater?](https://www.codewars.com/kata/57f7b8271e3d9283300000b4/train/javascript)|[Solution](./javascript-solutions/codewars/even-or-odd.js) |Easy on but it's election day, cut me some slack...|7 kyu||11/03/2020|
 |[Dashatize it](https://www.codewars.com/kata/58223370aef9fc03fd000071/train/javascript)|[Solution](./javascript-solutions/codewars/dashatize-it.js) |This one was a little sloppy. Needs refactor.|6 kyu||10/26/2020|
 |[Most Frequent Weekdays](https://www.codewars.com/kata/56eb16655250549e4b0013f4/solutions/javascript)|[Solution](./javascript-solutions/codewars/most-frequent-weekdays.js) ||6 kyu||10/26/2020|
 |[Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/javascript)|[Solution](./javascript-solutions/codewars/sums-of-parts.js) |Very frustrated. This passes a repl, but isn't fast enough for Codewars. Any ideas?|6 kyu||10/21/2020|
