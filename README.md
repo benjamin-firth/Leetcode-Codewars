@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Alphabet symmetry](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0/train/javascript)|[Solution](./javascript-solutions/codewars/alphabet-symmetry.js) ||7 kyu||11/05/2020|
 |[Even or Odd - Which is Greater?](https://www.codewars.com/kata/57f7b8271e3d9283300000b4/train/javascript)|[Solution](./javascript-solutions/codewars/even-or-odd.js) |Easy one but it's election day, cut me some slack...|7 kyu||11/03/2020|
 |[Dashatize it](https://www.codewars.com/kata/58223370aef9fc03fd000071/train/javascript)|[Solution](./javascript-solutions/codewars/dashatize-it.js) |This one was a little sloppy. Needs refactor.|6 kyu||10/26/2020|
 |[Most Frequent Weekdays](https://www.codewars.com/kata/56eb16655250549e4b0013f4/solutions/javascript)|[Solution](./javascript-solutions/codewars/most-frequent-weekdays.js) ||6 kyu||10/26/2020|
