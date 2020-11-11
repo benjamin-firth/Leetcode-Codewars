@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript)|[Solution](./javascript-solutions/codewars/zeros-to-end.js) ||5 kyu||11/11/2020|
 |[Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/train/javascript)|[Solution](./javascript-solutions/codewars/multiples-3-5.js) ||6 kyu||11/11/2020|
 |[Alphabet symmetry](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0/train/javascript)|[Solution](./javascript-solutions/codewars/alphabet-symmetry.js) ||7 kyu||11/05/2020|
 |[Even or Odd - Which is Greater?](https://www.codewars.com/kata/57f7b8271e3d9283300000b4/train/javascript)|[Solution](./javascript-solutions/codewars/even-or-odd.js) |Easy one but it's election day, cut me some slack...|7 kyu||11/03/2020|
