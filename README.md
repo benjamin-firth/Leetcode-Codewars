@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/javascript)|[Solution](./javascript-solutions/codewars/simple-pig-latin.js) ||5 kyu||11/19/2020|
 |[Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1/train/javascript)|[Solution](./javascript-solutions/codewars/where-anagrams.js) ||5 kyu||11/16/2020|
 |[Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/train/javascript)|[Solution](./javascript-solutions/codewars/strip-comments.js) ||4 kyu||11/11/2020|
 |[Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/javascript)|[Solution](./javascript-solutions/codewars/readable-duration.js) |SO MANY EDGE CASES...|4 kyu||11/11/2020|
