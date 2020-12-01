@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript)|[Solution](./javascript-solutions/codewars/valid-parens.js) ||5 kyu||12/01/2020|
 |[Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059/train/javascript)|[Solution](./javascript-solutions/codewars/pete-baker.js) ||5 kyu||11/20/2020|
 |[Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/javascript)|[Solution](./javascript-solutions/codewars/simple-pig-latin.js) ||5 kyu||11/19/2020|
 |[Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1/train/javascript)|[Solution](./javascript-solutions/codewars/where-anagrams.js) ||5 kyu||11/16/2020|
