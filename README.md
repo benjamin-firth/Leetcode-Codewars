@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb/train/javascript)|[Solution](./javascript-solutions/codewars/frequent-words.js) ||4 kyu||12/02/2020|
 |[Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript)|[Solution](./javascript-solutions/codewars/valid-parens.js) ||5 kyu||12/01/2020|
 |[Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059/train/javascript)|[Solution](./javascript-solutions/codewars/pete-baker.js) ||5 kyu||11/20/2020|
 |[Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/javascript)|[Solution](./javascript-solutions/codewars/simple-pig-latin.js) ||5 kyu||11/19/2020|
