@@ -7,7 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
-|[Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/javascript)|[Solution](./javascript-solutions/codewars/scramblies.js) |I really wanted to use .every() here...|5 kyu||12/09/2020|
+|[Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/javascript)|[Solution](./javascript-solutions/codewars/scramblies.js) |This passes all tests and then times out. Any ideas for a faster method?|5 kyu||12/09/2020|
 |[Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb/train/javascript)|[Solution](./javascript-solutions/codewars/frequent-words.js) ||4 kyu||12/02/2020|
 |[Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript)|[Solution](./javascript-solutions/codewars/valid-parens.js) ||5 kyu||12/01/2020|
 |[Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059/train/javascript)|[Solution](./javascript-solutions/codewars/pete-baker.js) ||5 kyu||11/20/2020|
