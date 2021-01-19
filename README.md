@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Double Cola](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/train/javascript)|[Solution](./javascript-solutions/codewars/double-cola.js) |First solution timed out.|5 kyu||01/19/2020|
 |[Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/javascript)|[Solution](./javascript-solutions/codewars/find-odd-int.js) |Been a minute! Gotta get back into these, I'm feeling rusty!|6 kyu||01/13/2020|
 |[Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/javascript)|[Solution](./javascript-solutions/codewars/scramblies.js) |This passes all tests and then times out. Any ideas for a faster method?|5 kyu||12/09/2020|
 |[Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb/train/javascript)|[Solution](./javascript-solutions/codewars/frequent-words.js) ||4 kyu||12/02/2020|
