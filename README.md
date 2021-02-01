@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript)|[Solution](./javascript-solutions/codewars/who-likes-it.js) ||6 kyu||02/01/2020|
 |[Averages of numbers](https://www.codewars.com/kata/57d2807295497e652b000139/train/javascript)|[Solution](./javascript-solutions/codewars/averages-of-nums.js) ||7 kyu||01/29/2020|
 |[Double Cola](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/train/javascript)|[Solution](./javascript-solutions/codewars/double-cola.js) |First solution timed out.|5 kyu||01/19/2020|
 |[Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/javascript)|[Solution](./javascript-solutions/codewars/find-odd-int.js) |Been a minute! Gotta get back into these, I'm feeling rusty!|6 kyu||01/13/2020|
