@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Pairs of Bears](https://www.codewars.com/kata/57d165ad95497ea150000020/train/javascript)|[Solution](./javascript-solutions/codewars/pairs-of-bears.js) ||6 kyu||02/10/2020|
 |[Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript)|[Solution](./javascript-solutions/codewars/who-likes-it.js) ||6 kyu||02/01/2020|
 |[Averages of numbers](https://www.codewars.com/kata/57d2807295497e652b000139/train/javascript)|[Solution](./javascript-solutions/codewars/averages-of-nums.js) ||7 kyu||01/29/2020|
 |[Double Cola](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/train/javascript)|[Solution](./javascript-solutions/codewars/double-cola.js) |First solution timed out.|5 kyu||01/19/2020|
