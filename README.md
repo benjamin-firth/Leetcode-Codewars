@@ -7,7 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
-|[Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/javascript)|[Solution](./javascript-solutions/codewars/replace-alphabet-position.js) ||6 kyu||07/01/2021|
+|[Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/javascript)|[Solution](./javascript-solutions/codewars/replace-alphabet-position.js) |Getting back into it after the new job|6 kyu||07/01/2021|
 |[Pairs of Bears](https://www.codewars.com/kata/57d165ad95497ea150000020/train/javascript)|[Solution](./javascript-solutions/codewars/pairs-of-bears.js) ||6 kyu||02/10/2021|
 |[Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript)|[Solution](./javascript-solutions/codewars/who-likes-it.js) ||6 kyu||02/01/2021|
 |[Averages of numbers](https://www.codewars.com/kata/57d2807295497e652b000139/train/javascript)|[Solution](./javascript-solutions/codewars/averages-of-nums.js) ||7 kyu||01/29/2021|
