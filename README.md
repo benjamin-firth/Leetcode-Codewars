@@ -7,11 +7,12 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
-|[Pairs of Bears](https://www.codewars.com/kata/57d165ad95497ea150000020/train/javascript)|[Solution](./javascript-solutions/codewars/pairs-of-bears.js) ||6 kyu||02/10/2020|
-|[Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript)|[Solution](./javascript-solutions/codewars/who-likes-it.js) ||6 kyu||02/01/2020|
-|[Averages of numbers](https://www.codewars.com/kata/57d2807295497e652b000139/train/javascript)|[Solution](./javascript-solutions/codewars/averages-of-nums.js) ||7 kyu||01/29/2020|
-|[Double Cola](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/train/javascript)|[Solution](./javascript-solutions/codewars/double-cola.js) |First solution timed out.|5 kyu||01/19/2020|
-|[Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/javascript)|[Solution](./javascript-solutions/codewars/find-odd-int.js) |Been a minute! Gotta get back into these, I'm feeling rusty!|6 kyu||01/13/2020|
+|[Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/javascript)|[Solution](./javascript-solutions/codewars/replace-alphabet-position.js) ||6 kyu||07/01/2021|
+|[Pairs of Bears](https://www.codewars.com/kata/57d165ad95497ea150000020/train/javascript)|[Solution](./javascript-solutions/codewars/pairs-of-bears.js) ||6 kyu||02/10/2021|
+|[Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript)|[Solution](./javascript-solutions/codewars/who-likes-it.js) ||6 kyu||02/01/2021|
+|[Averages of numbers](https://www.codewars.com/kata/57d2807295497e652b000139/train/javascript)|[Solution](./javascript-solutions/codewars/averages-of-nums.js) ||7 kyu||01/29/2021|
+|[Double Cola](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/train/javascript)|[Solution](./javascript-solutions/codewars/double-cola.js) |First solution timed out.|5 kyu||01/19/2021|
+|[Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/javascript)|[Solution](./javascript-solutions/codewars/find-odd-int.js) |Been a minute! Gotta get back into these, I'm feeling rusty!|6 kyu||01/13/2021|
 |[Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/javascript)|[Solution](./javascript-solutions/codewars/scramblies.js) |This passes all tests and then times out. Any ideas for a faster method?|5 kyu||12/09/2020|
 |[Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb/train/javascript)|[Solution](./javascript-solutions/codewars/frequent-words.js) ||4 kyu||12/02/2020|
 |[Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript)|[Solution](./javascript-solutions/codewars/valid-parens.js) ||5 kyu||12/01/2020|
