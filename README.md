@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Changing letters](https://www.codewars.com/kata/5831c204a31721e2ae000294/train/javascript)|[Solution](./javascript-solutions/codewars/changing-letters.js) |Getting back into practicing these. Fun to try and refactor down to as small a function as possible|7 kyu||01/15/2022|
 |[Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/javascript)|[Solution](./javascript-solutions/codewars/replace-alphabet-position.js) |Getting back into it after the new job|6 kyu||07/01/2021|
 |[Pairs of Bears](https://www.codewars.com/kata/57d165ad95497ea150000020/train/javascript)|[Solution](./javascript-solutions/codewars/pairs-of-bears.js) ||6 kyu||02/10/2021|
 |[Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript)|[Solution](./javascript-solutions/codewars/who-likes-it.js) ||6 kyu||02/01/2021|
