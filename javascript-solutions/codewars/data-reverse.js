@@ -7,7 +7,7 @@ const dataReverse = (data) => {
     currentChunk.push(char);
     if (currentChunk.length === 8) {
       eightChunks.push(currentChunk);
-      currentChunk = []
+      currentChunk = [];
     };
   });
   
