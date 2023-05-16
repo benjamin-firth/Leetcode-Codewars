@@ -7,6 +7,7 @@ Check out my Code Wars profile [here](https://www.codewars.com/users/ben-firth)!
 
 |      Title     |   Solutions   | Comments  | Difficulty  | Tag  | Date                 
 |----------------|---------------|--------|-------------|-------------|---------
+|[Reverse Vowels In A String](https://www.codewars.com/kata/585db3e8eec141ce9a00008f/train/javascript)|[Solution](./javascript-solutions/codewars/reverse-vowels-in-string.js) |Seems a little soft for 6|6 kyu||05/16/2023|
 |[99 Bottles of Beer](https://www.codewars.com/kata/52a723508a4d96c6c90005ba/train/javascript)|[Solution](./javascript-solutions/codewars/ninety-nine-bottles.js) |I hated this one so much. Dumb.|7 kyu||05/12/2023|
 |[Remove All The Marked Elements of a List](https://www.codewars.com/kata/563089b9b7be03472d00002b/train/javascript)|[Solution](./javascript-solutions/codewars/remove-marked-elements-of-list.js) ||7 kyu||05/12/2023|
 |[How Green Is My Valley](https://www.codewars.com/kata/56e3cd1d93c3d940e50006a4/train/javascript)|[Solution](./javascript-solutions/codewars/how-green-is-my-valley.js) |Getting back into it hopefully?|7 kyu||05/12/2023|
